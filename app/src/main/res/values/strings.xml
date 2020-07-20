@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Resources_Ex3</string>
+    <string name="msg">Above image is a logo of Prime8</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="action_exit">Exit</string>
+</resources>
